@@ -1,7 +1,7 @@
 - 👋 Hello, My name is Pradeep Sawlani, and I'm software engineer. 
-- 👀 I’m interested in Cloud native infrastructure/technologies, fintech, fittech. 
-- 🌱 I’m currently learning kubernetes internals, declarative infrastructure, blockchain.
-- 💞️ I’m looking to collaborate on blockchain internals. 
+- 👀 I’m interested in AI/Cloud native infrastructure/technologies, fintech, fittech. 
+- 🌱 I’m currently learning ML. LLM, blockchain.
+- 💞️ I’m looking to collaborate on LLM internals and infrastructure needed to run it efficiently.
 - 📫 I can be reached at twitter(@_pradeep).
 
 <!---
